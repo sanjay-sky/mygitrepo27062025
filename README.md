@@ -1,3 +1,2 @@
 # mygitrepo27062025
-my 1st commit
-my 2nd commit
+this is my 1st commit
